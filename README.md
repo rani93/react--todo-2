@@ -99,7 +99,3 @@ The application uses `jsonplaceholder.typicode.com/todos` for demo purposes. To 
 1. Create a new branch
 2. Make your changes
 3. Submit a pull request
-
-## License
-
-MIT License - feel free to use this project for your own purposes.
